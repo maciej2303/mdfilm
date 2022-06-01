@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/delete-modal.js": "/js/delete-modal.js",
+    "/js/add-work-times-modal.js": "/js/add-work-times-modal.js",
+    "/js/work-time/add-modal.js": "/js/work-time/add-modal.js",
+    "/js/work-time/edit-modal.js": "/js/work-time/edit-modal.js",
+    "/js/calendar/add-modal.js": "/js/calendar/add-modal.js",
+    "/js/calendar/show-modal.js": "/js/calendar/show-modal.js",
+    "/js/calendar/edit-modal.js": "/js/calendar/edit-modal.js",
+    "/js/tasks/add-modal.js": "/js/tasks/add-modal.js",
+    "/js/tasks/edit-modal.js": "/js/tasks/edit-modal.js",
+    "/js/upload-video.js": "/js/upload-video.js",
+    "/css/app.css": "/css/app.css",
+    "/css/font-awasome.css": "/css/font-awasome.css"
+}

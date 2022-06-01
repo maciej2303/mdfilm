@@ -1,0 +1,481 @@
+.login-bg {
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.img-menu {
+    max-width: 100%;
+}
+
+label {
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.navbar-static-side {
+    background-image: url("../img/background-menu.jpg");
+}
+
+select.form-control:not([size]):not([multiple]) {
+    height: 36px;
+}
+
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--multiple,
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border-radius: 0px;
+    background-color: #FFFFFF;
+    background-image: none;
+    border: 1px solid #e5e6e7;
+    border-radius: 1px;
+    color: inherit;
+    display: block;
+    min-height: 35.6px;
+    height: 100%;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 100% !important;
+    padding-top: 2px;
+}
+
+.select2-container--default .select2-selection--multiple,
+.select2-selection--multiple {
+    min-height: 36px;
+    height: 100%;
+}
+
+.select2-dropdown {
+    border: 1px solid #e5e6e7;
+    border-radius: 0px;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    border: 1px solid #e5e6e7;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 5px;
+}
+
+.feed-element .well {
+    margin-top: 0px;
+}
+
+.feed-activity-list .feed-element {
+    border-bottom: 0px solid #e7eaec;
+}
+
+.feed-element {
+    padding-bottom: 0px;
+}
+
+.modal-body label {
+    font-weight: 700;
+}
+
+.table-project-day {
+    width: 130px;
+    max-width: 162px;
+}
+
+.table-project-hours {
+    width: 50px;
+    text-align: center;
+}
+
+.table-project-tasks {
+    width: 300px;
+}
+
+.project-table-wrapper {
+    font-size: 12px;
+    overflow: scroll;
+    /* Scrollbar are always visible */
+    overflow: auto;
+    /* Scrollbar is displayed as it's needed */
+}
+
+.table-project {
+    width: auto;
+}
+
+.table-project-tasks a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.table-project-total span {
+    display: inline-block;
+}
+
+.table-project-hours-total {
+    width: 100px;
+}
+
+.table-project h3 {
+    margin: 5px;
+}
+
+.well-header {
+    display: block;
+}
+
+#add-file {
+    display: none;
+}
+
+.custom-file-label {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0px;
+}
+
+.smaller-text {
+    font-size: 95%;
+}
+
+.list-group-item {
+    padding: 2px 15px;
+}
+
+.list-group-item-heading {
+    display: inline-block;
+}
+
+.list-group-item span {
+    display: inline-block;
+}
+
+.list-group-item.warning {
+    background-color: #f8ac59;
+    border-color: #f8ac59;
+    color: #fff;
+}
+.list-group-item-box { 
+    border-style:solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color:#007bff;
+    background-color: #fff!important;
+}
+
+.nav-tabs>li>a {
+    padding: 10px 10px 10px 10px;
+}
+
+.ibox-content.small-padding {
+    padding: 10px;
+}
+
+.ibox.project-elements .ibox-tools a  {
+    color: #fff !important;
+}
+
+.ibox.project-elements {
+    margin-bottom: 5px;
+}
+
+.ibox.project-elements .ibox-title a {
+    color: #fff;
+}
+.ibox.project-elements .ibox-title .ibox-tools i {
+    color: #fff;
+}
+.list-group-border h5 {
+    color:white;
+}
+
+.ibox.project-elements,
+.project-elements .ibox-title {
+    border-radius: 4px;
+}
+
+.project-elements p {
+    margin-bottom: 10px;
+}
+
+.btn-xss {
+    font-size: 0.4rem !important;
+    padding: 0.2rem 0.3rem;
+    margin-top: -2px;
+    display: inline-block;
+}
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.comment-time .form-control {
+    display: inline-block;
+    width: 50px;
+    padding: 2px;
+    height: 24px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.bg-grey {
+    background-color: #D1DADE !important;
+}
+
+.btn-danger.btn-outline {
+    color: #ED5565 !important;
+}
+
+.btn-danger.btn-outline:hover {
+    color: #fff !important;
+}
+
+h2 a {
+    color: #676a6c;
+}
+
+.p-none {
+    padding: 0px !important;
+}
+
+.version-closed {
+    color: #b3b3b3;
+}
+
+.table-project-card span {
+    display: inline-block;
+    margin-bottom: 3px;
+    font-size: 10px;
+}
+
+
+.agile-board {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    height: calc(100vh - 170px);
+    scrollbar-color: purple;
+
+}
+.pointer-hand {
+    cursor:pointer;
+}
+.agile-board-column {
+    max-height: calc(100vh - 270px)!important;
+}
+
+.col-agile {
+    overflow:hidden;
+    min-width: 350px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.sortable-list {
+    max-height: calc(100vh - 220px);
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+}
+
+::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d6d6d6;
+    border: 1px solid #a7a7a7;
+    border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #d1d1d1;
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: #c7c7c7;
+}
+
+::-webkit-scrollbar-track {
+    background: #e2e2e2;
+    border: 0px none #ffffff;
+    border-radius: 53px;
+}
+
+::-webkit-scrollbar-track:hover {
+    background: #cecece;
+}
+
+::-webkit-scrollbar-track:active {
+    background: #bbbbbb;
+}
+
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+
+.avatar-in-board span {
+    font-size: 12px;
+    font-family: "open sans",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}
+
+.avatar-in-board {
+    float: left;
+}
+
+.eventList {
+    display: block;
+    background-color: #000;
+    color: #fff;
+    padding: 2px 4px;
+    margin-bottom: 2px;
+    border-radius: 3px;
+}
+
+.small-label {
+    padding: 1px 5px;
+}
+
+.btn-micro {
+    padding: 1px 4px;
+}
+
+.navbar-logo {
+    margin-left: 25px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    max-height: 80px;
+    width: auto;
+}
+
+/* more videos youtube */
+.ytp-pause-overlay {
+    display: none !important;
+}
+
+.container-calendar {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.fc-scroller {
+    overflow-y: unset !important;
+}
+
+.callPerson {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.general-container .nav-tabs .nav-link,
+.general-container .nav-tabs .nav-item.show .nav-link {
+    background-color: #f3f3f4;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.general-container .nav-tabs .nav-link.active,
+.general-container .nav-tabs .nav-item.show .nav-link {
+    background-color: #fff;
+}
+
+.general-container .nav-tabs .nav-link:hover,
+.general-container .nav-tabs .nav-link:focus {
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.ibox.project-elements {
+    border: 0px !important;
+    background: white !important;
+    margin: 0 !important;
+    padding: 0px 10px !important;
+}
+
+div.form-control {
+    min-height: 68px;
+    height: auto;
+    max-height: 300px;
+    overflow: auto;
+}
+
+.modal-body.overflow-visible {
+    overflow: visible !important;
+}
+
+.to-do-list div:first-of-type,
+.history-box div:first-of-type,
+.history-box div:last-of-type {
+    display: contents;
+}
+.mini-project.grey {
+    background-color: #eaeaea;
+}
+.mini-project {
+    background-color: #64cfff;
+    color: #fff;
+    text-align: center;
+    height: 140px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* height: calc(100% - 38px); */
+    margin: auto;
+    padding: 20% 10%;
+}
+.mini-project h2 {
+    font-weight:bold;
+}
+.mini {
+  padding: 10px 10px 10px 10px;
+  height: 100%;
+  position: relative;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+.img-mini {
+    width:calc(100% - 10px);
+    max-height: 100%;
+    padding:none;
+}
+.copyright {
+    position:fixed;
+    bottom:0;
+    bottom: 0;
+    color: #fff;
+    font-size: 10px;
+    padding: 3px;
+}
+    

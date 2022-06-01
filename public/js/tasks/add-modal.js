@@ -1,0 +1,2 @@
+$(document).ready((function(){$("#addTodo").on("shown.bs.modal",(function(n){var a=$(n.relatedTarget).data("content");if(null!=a){var t=a.replace(/<a[^>]*>|<\/a>/g,"");t=(t=t.replace(/<span[^>]*>|<\/span>/g,"")).replace(/\<br\>/g," "),$(this).find("#content-field").html(t),$(this).find(".input-content").val(t)}}))}));
+//# sourceMappingURL=add-modal.js.map

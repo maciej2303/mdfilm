@@ -1,0 +1,17 @@
+.tooltip {
+    top: 0px;
+}
+
+.row-filters .col {
+    padding-right: 0px;
+}
+
+label.m-t-xs {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.row-filters .col .select2.select2-container.select2-container--default {
+    display: block;
+    max-width: 300px;
+}
